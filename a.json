@@ -1,0 +1,229 @@
+{
+    "code": 1,
+    "data": {
+        "vipInfo": [],
+        "memberInfo": [
+            {
+                "createTime": "2020-02-01",
+                "count": 540
+            },
+            {
+                "createTime": "2020-02-02",
+                "count": 211
+            },
+            {
+                "createTime": "2020-02-03",
+                "count": 521
+            },
+            {
+                "createTime": "2020-02-04",
+                "count": 192
+            },
+            {
+                "createTime": "2020-02-05",
+                "count": 1185
+            },
+            {
+                "createTime": "2020-02-06",
+                "count": 933
+            },
+            {
+                "createTime": "2020-02-07",
+                "count": 681
+            },
+            {
+                "createTime": "2020-02-08",
+                "count": 925
+            },
+            {
+                "createTime": "2020-02-09",
+                "count": 694
+            },
+            {
+                "createTime": "2020-02-10",
+                "count": 650
+            },
+            {
+                "createTime": "2020-02-11",
+                "count": 323
+            },
+            {
+                "createTime": "2020-02-12",
+                "count": 673
+            },
+            {
+                "createTime": "2020-02-13",
+                "count": 233
+            },
+            {
+                "createTime": "2020-02-14",
+                "count": 383
+            },
+            {
+                "createTime": "2020-02-15",
+                "count": 689
+            },
+            {
+                "createTime": "2020-02-16",
+                "count": 599
+            },
+            {
+                "createTime": "2020-02-17",
+                "count": 160
+            }
+        ],
+        "registerCountInfo": [
+            {
+                "createTime": "2020-02-01",
+                "count": 45
+            },
+            {
+                "createTime": "2020-02-02",
+                "count": 38
+            },
+            {
+                "createTime": "2020-02-03",
+                "count": 27
+            },
+            {
+                "createTime": "2020-02-04",
+                "count": 33
+            },
+            {
+                "createTime": "2020-02-05",
+                "count": 51
+            },
+            {
+                "createTime": "2020-02-06",
+                "count": 35
+            },
+            {
+                "createTime": "2020-02-07",
+                "count": 42
+            },
+            {
+                "createTime": "2020-02-08",
+                "count": 48
+            },
+            {
+                "createTime": "2020-02-09",
+                "count": 47
+            },
+            {
+                "createTime": "2020-02-10",
+                "count": 45
+            },
+            {
+                "createTime": "2020-02-11",
+                "count": 42
+            },
+            {
+                "createTime": "2020-02-12",
+                "count": 29
+            },
+            {
+                "createTime": "2020-02-13",
+                "count": 21
+            },
+            {
+                "createTime": "2020-02-14",
+                "count": 42
+            },
+            {
+                "createTime": "2020-02-15",
+                "count": 54
+            },
+            {
+                "createTime": "2020-02-16",
+                "count": 32
+            },
+            {
+                "createTime": "2020-02-17",
+                "count": 15
+            }
+        ],
+        "genealogyInfo": [
+            {
+                "createTime": "2020-02-01",
+                "count": 36
+            },
+            {
+                "createTime": "2020-02-02",
+                "count": 23
+            },
+            {
+                "createTime": "2020-02-03",
+                "count": 28
+            },
+            {
+                "createTime": "2020-02-04",
+                "count": 27
+            },
+            {
+                "createTime": "2020-02-05",
+                "count": 60
+            },
+            {
+                "createTime": "2020-02-06",
+                "count": 25
+            },
+            {
+                "createTime": "2020-02-07",
+                "count": 31
+            },
+            {
+                "createTime": "2020-02-08",
+                "count": 32
+            },
+            {
+                "createTime": "2020-02-09",
+                "count": 31
+            },
+            {
+                "createTime": "2020-02-10",
+                "count": 42
+            },
+            {
+                "createTime": "2020-02-11",
+                "count": 35
+            },
+            {
+                "createTime": "2020-02-12",
+                "count": 25
+            },
+            {
+                "createTime": "2020-02-13",
+                "count": 21
+            },
+            {
+                "createTime": "2020-02-14",
+                "count": 36
+            },
+            {
+                "createTime": "2020-02-15",
+                "count": 45
+            },
+            {
+                "createTime": "2020-02-16",
+                "count": 27
+            },
+            {
+                "createTime": "2020-02-17",
+                "count": 17
+            }
+        ],
+        "registerCount": 646,
+        "orderInfo": [
+            {
+                "createTime": "2020-02-11",
+                "count": 0
+            }
+        ],
+        "member": 9592,
+        "vip": 0,
+        "genealogy": 541,
+        "order": 0
+    },
+    "message": "操作成功"
+}
+
