@@ -311,9 +311,11 @@ class Recommend extends StatelessWidget {
   }
 
   //商品 item
-  Widget _item(index){
+  Widget _item(context,index){
     return InkWell(
-      onTap: (){},
+      onTap: (){
+        Application.router.navigateTo(context, "/detail?id=${recommendList[index]['goodsId']}");
+      },
       child: Container(
         width: ScreenUtil().setWidth(250),
         padding: EdgeInsets.all(8.0),
@@ -349,7 +351,7 @@ class Recommend extends StatelessWidget {
         scrollDirection: Axis.horizontal,
         itemCount: recommendList.length,
         itemBuilder: (context,index){
-            return _item(index);
+            return _item(context,index);
           },
       ),
     );
